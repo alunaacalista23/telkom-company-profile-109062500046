@@ -33,7 +33,11 @@ HEAD
                 Tentang Kampus
 
             <a class="<?= $currentPage === 'profile.php' ? 'active' : '' ?>" href="profile.php"> 
+ HEAD
                     Profil Universitas
+
+            
+ feature-navbar
  conflict-navbar
             </a>
 
