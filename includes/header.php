@@ -33,7 +33,7 @@ HEAD
                 Tentang Kampus
 
             <a class="<?= $currentPage === 'profile.php' ? 'active' : '' ?>" href="profile.php"> 
-                 Tentang Kami 
+                    Tentang Kami
  conflict-navbar
             </a>
 
