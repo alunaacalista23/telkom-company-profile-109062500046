@@ -33,3 +33,89 @@ Tag `v1.0.0` dibuat sebagai penanda versi final project praktikum.
 
 ### 6. Riwayat Commit
 Output `git log --oneline --graph --decorate --all` dilampirkan di bawah bagian ini.
+
+* 01366d9 (HEAD -> main, origin/main) docs: tambahkan riwayat praktikum Git
+* 96f1024 (tag: v1.0.0) docs: dokumentasikan penyelesaian merge conflict
+*   cd884f6 merge: selesaikan conflict navbar
+|\  
+| * 8331164 (feature-navbar) feat: perbarui label profil pada feature branch
+* | bec894a style: perbarui label profil pada main
+|/  
+* 984e833 (origin/feature-navbar) feat: ubah label navigasi profil
+* 643c7e8 feat: tambahkan formulir kontak
+* e96c33d feat: tambahkan daftar dan detail berita
+* 544c924 feat: tampilkan data program studi
+* 79ed25e feat: hubungkan aplikasi dengan database
+:
+* 01366d9 (HEAD -> main, origin/main) docs: tambahkan riwayat praktikum Git
+* 96f1024 (tag: v1.0.0) docs: dokumentasikan penyelesaian merge conflict
+*   cd884f6 merge: selesaikan conflict navbar
+|\  
+| * 8331164 (feature-navbar) feat: perbarui label profil pada feature branch
+* | bec894a style: perbarui label profil pada main
+|/  
+* 984e833 (origin/feature-navbar) feat: ubah label navigasi profil
+* 643c7e8 feat: tambahkan formulir kontak
+* e96c33d feat: tambahkan daftar dan detail berita
+* 544c924 feat: tampilkan data program studi
+* 79ed25e feat: hubungkan aplikasi dengan database
+* b64a5d7 feat: tambahkan halaman beranda dan profil
+* d64e3c9 style: tambahkan stylesheet company profile
+* 63330bf feat: tambahkan layout header dan footer
+* 75fb98d chore: inisialisasi konfigurasi repository
+* df1ad44 first commit
+~
+~
+~
+~
+~
+(END)
+* 01366d9 (HEAD -> main, origin/main) docs: tambahkan riwayat praktikum Git
+* 96f1024 (tag: v1.0.0) docs: dokumentasikan penyelesaian merge conflict
+*   cd884f6 merge: selesaikan conflict navbar
+|\  
+| * 8331164 (feature-navbar) feat: perbarui label profil pada feature branch
+* | bec894a style: perbarui label profil pada main
+|/  
+* 984e833 (origin/feature-navbar) feat: ubah label navigasi profil
+* 643c7e8 feat: tambahkan formulir kontak
+* e96c33d feat: tambahkan daftar dan detail berita
+* 544c924 feat: tampilkan data program studi
+* 79ed25e feat: hubungkan aplikasi dengan database
+* b64a5d7 feat: tambahkan halaman beranda dan profil
+* d64e3c9 style: tambahkan stylesheet company profile
+* 63330bf feat: tambahkan layout header dan footer
+* 75fb98d chore: inisialisasi konfigurasi repository
+* df1ad44 first commit
+~
+~
+~
+~
+~
+~
+(END)
+* 01366d9 (HEAD -> main, origin/main) docs: tambahkan riwayat praktikum Git
+* 96f1024 (tag: v1.0.0) docs: dokumentasikan penyelesaian merge conflict
+*   cd884f6 merge: selesaikan conflict navbar
+|\  
+| * 8331164 (feature-navbar) feat: perbarui label profil pada feature branch
+* | bec894a style: perbarui label profil pada main
+|/  
+* 984e833 (origin/feature-navbar) feat: ubah label navigasi profil
+* 643c7e8 feat: tambahkan formulir kontak
+* e96c33d feat: tambahkan daftar dan detail berita
+* 544c924 feat: tampilkan data program studi
+* 79ed25e feat: hubungkan aplikasi dengan database
+* b64a5d7 feat: tambahkan halaman beranda dan profil
+* d64e3c9 style: tambahkan stylesheet company profile
+* 63330bf feat: tambahkan layout header dan footer
+* 75fb98d chore: inisialisasi konfigurasi repository
+* df1ad44 first commit
+~
+~
+~
+~
+~
+~
+~
+(END)
