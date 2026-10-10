@@ -13,3 +13,23 @@ Perintah yang digunakan:
 - `git status`
 - `git add includes/header.php`
 - `git commit -m "merge: selesaikan conflict navbar"`
+
+## Riwayat Praktikum Git
+
+### 1. Pengembangan Project
+Project company profile dikelola menggunakan Git dengan commit terpisah untuk konfigurasi repository, layout, stylesheet, halaman profil, koneksi database, program studi, berita, dan formulir kontak.
+
+### 2. Feature Branch dan Merge
+Branch `feature-navbar` dibuat untuk mengembangkan perubahan navigasi secara terpisah. Setelah perubahan selesai, branch digabungkan ke `main` menggunakan perintah `git merge`.
+
+### 3. Penyelesaian Merge Conflict
+Simulasi konflik dilakukan dengan mengubah baris label navigasi yang sama pada branch `main` dan `feature-navbar`. Konflik diselesaikan dengan memilih isi akhir yang sesuai, menghapus penanda konflik, lalu membuat commit merge.
+
+### 4. Simulasi Kolaborasi
+Repository di-clone ke folder kedua. Perubahan README dilakukan dan di-commit dari folder kedua, kemudian di-push ke GitHub dan di-pull kembali pada folder pertama.
+
+### 5. Release
+Tag `v1.0.0` dibuat sebagai penanda versi final project praktikum.
+
+### 6. Riwayat Commit
+Output `git log --oneline --graph --decorate --all` dilampirkan di bawah bagian ini.
